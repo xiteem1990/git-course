@@ -1,0 +1,2 @@
+Config username: git config --global user.name “Udemy - Khai Do”
+Config email: git config --global user.email “dotrongkhai@gmail.com”
