@@ -53,6 +53,11 @@ i. Chạy lệnh: git reset HEAD~1
 - Vùng working: file1, file2, file3
 - Vùng staging: ko có file
 - Vùng repository: ko có file 
+---> Kết quả đúng là:
+- Vùng working: file2, file3
+- Vùng staging: ko có file
+- Vùng repository: file1
+
 
 3. Hãy tưởng tượng có 1 folder lesson-3-git mới được tạo ra. Hãy liệt kê các file theo từng vùng sau khi thao tác các lệnh sau:
 
